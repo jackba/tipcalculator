@@ -1,0 +1,1 @@
+Tip Calculator Android application homework assignment described here: http://www.youtube.com/watch?v=ybnAx_yqzM4&feature=player_embedded
